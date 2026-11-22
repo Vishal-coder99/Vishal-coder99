@@ -1,116 +1,175 @@
-<h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
+# Hi 👋, I'm Vishal Gupta
 
-<h3 align="center">
-Frontend Developer | BCA Student | Passionate Web Developer
-</h3>
+<h3 align="center">Full-Stack Developer | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React.js;Building+Modern+Responsive+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Database;Python+%7C+JavaScript+%7C+SQL;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://vishalportfolio912.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vishal-Codes91">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Student
-- 💻 Frontend Developer
-- 🌱 Currently Learning **React.js**
-- 🎯 Goal: Become a Full Stack Developer
-- 📍 India
+I'm Vishal Gupta, a passionate Full-Stack Developer from India who enjoys building responsive, interactive, and user-friendly web applications.
+
+- 💻 Interested in Full-Stack Web Development
+- 🌱 Currently improving my skills in React.js, Python and Backend Development
+- ⚡ Experienced with frontend development and database fundamentals
+- 🔌 Familiar with REST APIs and API integration
+- 🗄️ Interested in SQL and Database Management
+- 🎯 Goal: Become a skilled Software Developer
+- 📚 Believe in continuous learning and practical development
+
+🌐 **Portfolio:** https://vishalportfolio912.netlify.app/
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Skills
 
-<p align="left">
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=react" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
 </p>
 
----
+### Backend Development
 
-# 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flask" />
+</p>
 
-- React.js
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
+
+### Other Technologies
+
 - REST APIs
 - Responsive Web Design
-- Git & GitHub Best Practices
+- SQL & Database Management
+- Machine Learning Fundamentals
+- Scikit-learn, Pandas & NumPy
+- XAMPP & Netlify
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Featured Projects
 
-### 🌐 Portfolio Website
+### 🎮 1. Tic-Tac-Toe Game
 
-Modern responsive portfolio using HTML CSS JavaScript
+An interactive and responsive Tic-Tac-Toe game featuring:
+
+- Two-player gameplay
+- Winning logic and draw detection
+- Restart functionality
+- Responsive user interface
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 🚦 2. Check Traffic Website
+
+A responsive traffic analysis website with an interactive user interface and reusable components.
+
+**Technologies:** React.js, JavaScript, CSS, Vite
+
+### 🛒 3. E-Commerce Website
+
+A responsive digital shopping platform featuring:
+
+- Dynamic product listings
+- Interactive product cards
+- Shopping cart functionality
+- User-friendly interface
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 🎓 4. Student Performance Prediction
+
+A machine learning-based web application designed to predict student marks and identify academic performance risks.
+
+- Student marks prediction
+- Academic performance analysis
+- Linear Regression
+- Decision Tree Algorithm
+
+**Technologies:** Python, Flask, Scikit-learn, Pandas, NumPy, HTML, CSS
 
 ---
 
-### 🎮 Tic Tac Toe Game
+## 📚 Education & Certifications
 
-Interactive Tic Tac Toe game using JavaScript
-
----
-
-### 🌦 Weather App
-
-Weather App using API
+- 🎓 **Bachelor of Computer Applications (BCA)** — YCMOU
+- 💻 **ADCA (Advanced Diploma in Computer Applications)** — 2024
 
 ---
 
-### 🧮 Calculator
+## 🎯 Current Learning Goals
 
-Responsive Calculator
+- React.js and Modern JavaScript
+- Backend Development with Python and Node.js
+- REST API Development and Integration
+- SQL and Database Management
+- Machine Learning with Python
+- Writing clean and maintainable code
 
 ---
 
-## 💻 Most Used Languages
+## 📊 GitHub Statistics
 
-C, C++, Python, HTML, CSS, JavaScript,
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Codes91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Codes91&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishal-Codes91&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/Vishal-Codes91">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:vishalgupta912500.00@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
-<a href="https://github.com/Vishal-Codes91">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+- 🌍 Portfolio: https://vishalportfolio912.netlify.app/
+- 📧 Email: vishalgupta912500.00@gmail.com
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+## 👀 Profile Visitors
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vishal-Codes91&label=Profile%20Views&color=22C55E&style=flat" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## ⚡ Developer Quote
 
-![](https://komarev.com/ghpvc/?username=Vishal-Codes91&color=blue)
+> "Great things are built one line of code at a time."
 
----
-
-## ⚡ Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+<p align="center">
+  <h3>⭐ Thanks for visiting my GitHub profile! ⭐</h3>
+  <b>Code • Learn • Build • Innovate 🚀</b>
+</p>
