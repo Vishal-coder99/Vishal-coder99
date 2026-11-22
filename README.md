@@ -128,19 +128,11 @@ A machine learning-based web application designed to predict student marks and i
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vishal-Codes91&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    height="180"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Vishal-Codes91&show_icons=true&theme=tokyonight"
+       height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishal-Codes91&layout=compact&theme=tokyonight"
+       height="180" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Codes91&layout=compact&theme=tokyonight&cache_seconds=86400"
-    height="180"
-  />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="left">
